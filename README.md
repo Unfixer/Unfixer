@@ -55,7 +55,7 @@ I enjoy Philosophy and Psychoanalysis just as much as I enjoy coding with some n
 <p align="center">
     <a id="GitHub" href="https://github.com/Unfixer/"><img width="27px" src="https://www.svgrepo.com/show/450156/github.svg" alt="Saghnik Banerjee - Github /></a>
     &nbsp;&nbsp;&nbsp;   
-    <a id="LinkedIn" href="https://www.linkedin.com/in/saghnik-banerjee-903478311//"><img width="27px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="Saghnik Banerjee - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://www.linkedin.com/in/saghnik-banerjee/"><img width="27px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="Saghnik Banerjee - LinkedIn" /></a> 
     &nbsp;&nbsp;
     <a id="Website" href="https://unfixer.github.io"><img width="27px" src="https://www.svgrepo.com/show/275884/portfolio-travel.svg" alt="Saghnik Banerjee - Website" /></a>
     &nbsp;&nbsp;
