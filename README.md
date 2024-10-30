@@ -59,5 +59,6 @@ I enjoy Philosophy and Psychoanalysis just as much as I enjoy coding with some n
     <a id="Website" href="https://unfixer.github.io"><img width="27px" src="https://www.svgrepo.com/show/275884/portfolio-travel.svg" alt="Saghnik Banerjee - Website" /></a>
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:saghnikbanerjee2004@outlook.com"><img width="27px" src="https://www.svgrepo.com/show/514332/mail.svg" alt="Saghnik Banerjee - Mail"/></a>
+    <a id="LinkedIn" href="https://www.linkedin.com/in/saghnik-banerjee-903478311/"><img width="27px" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Saghnik Banerjee - LinkedIn" /></a> 
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
