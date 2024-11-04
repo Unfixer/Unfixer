@@ -4,7 +4,7 @@
 - 🔭 I’m a Student from KIIT DU.
 - 👯 I write about technologies that interest me in [My LinkedIn](https://www.linkedin.com/in/saghnik-banerjee-903478311/)
 - 💬 Cyber Security, Natural Language Processing, and, Mathematics.
-- 📫 **How to reach me**: [My Website](https://unfixer.github.io/) or [LinkedIn](https://www.linkedin.com/in/saghnik-banerjee-903478311//)
+- 📫 **How to reach me**: [My Website](https://unfixer-github-io.vercel.app) or [LinkedIn](https://www.linkedin.com/in/saghnik-banerjee-903478311//)
 
 <details>
 <summary>
@@ -14,7 +14,7 @@
 
 ### Little More About Me  
 
-I enjoy Philosophy and Psychoanalysis just as much as I enjoy coding with some noodles :ramen:, listen to some classical music :piano:	and play video games :video_game:. I enjoy teaching people and learning new things from the very people I teach as well. I acquired skills such as Public Speaking and Team Building and such Interpersonal skills at my school. I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning, and, ofcourse Cyber Security. More projects with regards to Cyber Security will be coming soon.
+I enjoy Philosophy and Psychoanalysis just as much as I enjoy coding with some noodles :ramen:, listen to some classical music :violin:	and play video games :video_game:. I enjoy teaching people and learning new things from the very people I teach as well. I acquired skills such as Public Speaking and Team Building and such Interpersonal skills at my school. I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning, and, ofcourse Cyber Security. More projects with regards to Cyber Security will be coming soon.
 
 ### Programming Languages :scroll:
 
@@ -56,7 +56,7 @@ I enjoy Philosophy and Psychoanalysis just as much as I enjoy coding with some n
     &nbsp;&nbsp;
     <a id="LinkedIn" href="https://www.linkedin.com/in/saghnik-banerjee-903478311/"><img width="27px" src="" alt="" /></a> 
     &nbsp;&nbsp;
-    <a id="Website" href="https://unfixer.github.io"><img width="27px" src="https://www.svgrepo.com/show/275884/portfolio-travel.svg" alt="Saghnik Banerjee - Website" /></a>
+    <a id="Website" href="https://unfixer-github-io.vercel.app"><img width="27px" src="https://www.svgrepo.com/show/275884/portfolio-travel.svg" alt="Saghnik Banerjee - Website" /></a>
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:saghnikbanerjee2004@outlook.com"><img width="27px" src="https://www.svgrepo.com/show/514332/mail.svg" alt="Saghnik Banerjee - Mail"/></a>
     <a id="LinkedIn" href="https://www.linkedin.com/in/saghnik-banerjee-903478311/"><img width="27px" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Saghnik Banerjee - LinkedIn" /></a> 
